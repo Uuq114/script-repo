@@ -1,3 +1,5 @@
+### block malicious access, add their ips to ip_block.conf
+
 #!/bin/bash
 
 BLOCK_CONF_PATH="/root/nginx/conf/ip_block.conf"
